@@ -1,0 +1,3 @@
+D:/log-monitoring-system/build/CMakeFiles/log-monitor.dir
+D:/log-monitoring-system/build/CMakeFiles/edit_cache.dir
+D:/log-monitoring-system/build/CMakeFiles/rebuild_cache.dir
